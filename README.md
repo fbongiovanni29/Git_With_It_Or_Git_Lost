@@ -9,8 +9,6 @@ TO DO:
 
 Figure out how to make it a script so beginners don't have to use .bash_profile
 
-Figure out how to add color to organize better
-
 Figure out how to replace underscores with spaces
 
 Figure out how to make a better README
